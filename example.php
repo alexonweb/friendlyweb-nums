@@ -1,6 +1,6 @@
 <?php
 
-require 'FriendlyWeb/Nums1k/Nums1k.php';
+require 'FriendlyWeb/Nums/Nums.php';
 
 $nums = new FriendlyWeb\Nums();
 
